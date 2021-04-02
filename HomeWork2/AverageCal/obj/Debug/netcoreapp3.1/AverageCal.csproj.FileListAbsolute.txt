@@ -1,0 +1,13 @@
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork2\AverageCal\obj\Debug\netcoreapp3.1\AverageCal.csprojAssemblyReference.cache
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork2\AverageCal\obj\Debug\netcoreapp3.1\AverageCal.AssemblyInfoInputs.cache
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork2\AverageCal\obj\Debug\netcoreapp3.1\AverageCal.AssemblyInfo.cs
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork2\AverageCal\obj\Debug\netcoreapp3.1\AverageCal.csproj.CoreCompileInputs.cache
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork2\AverageCal\bin\Debug\netcoreapp3.1\AverageCal.exe
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork2\AverageCal\bin\Debug\netcoreapp3.1\AverageCal.deps.json
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork2\AverageCal\bin\Debug\netcoreapp3.1\AverageCal.runtimeconfig.json
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork2\AverageCal\bin\Debug\netcoreapp3.1\AverageCal.runtimeconfig.dev.json
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork2\AverageCal\bin\Debug\netcoreapp3.1\AverageCal.dll
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork2\AverageCal\bin\Debug\netcoreapp3.1\AverageCal.pdb
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork2\AverageCal\obj\Debug\netcoreapp3.1\AverageCal.dll
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork2\AverageCal\obj\Debug\netcoreapp3.1\AverageCal.pdb
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork2\AverageCal\obj\Debug\netcoreapp3.1\AverageCal.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csprojAssemblyReference.cache
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfoInputs.cache
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfo.cs
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csproj.CoreCompileInputs.cache
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.exe
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.deps.json
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.json
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.dev.json
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.dll
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.pdb
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.dll
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.pdb
+C:\Users\Slavko\Desktop\C#HomeWorks\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.genruntimeconfig.cache
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.exe
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.deps.json
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.json
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.dev.json
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.dll
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.pdb
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csprojAssemblyReference.cache
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfoInputs.cache
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfo.cs
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csproj.CoreCompileInputs.cache
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.dll
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.pdb
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.genruntimeconfig.cache
