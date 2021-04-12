@@ -1,0 +1,4 @@
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork07\CarModels\obj\Debug\netcoreapp3.1\CarModels.csprojAssemblyReference.cache
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork07\CarModels\obj\Debug\netcoreapp3.1\CarModels.AssemblyInfoInputs.cache
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork07\CarModels\obj\Debug\netcoreapp3.1\CarModels.AssemblyInfo.cs
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork07\CarModels\obj\Debug\netcoreapp3.1\CarModels.csproj.CoreCompileInputs.cache

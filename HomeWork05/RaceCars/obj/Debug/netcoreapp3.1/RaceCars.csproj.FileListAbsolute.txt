@@ -1,0 +1,13 @@
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork05\RaceCars\obj\Debug\netcoreapp3.1\RaceCars.csprojAssemblyReference.cache
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork05\RaceCars\obj\Debug\netcoreapp3.1\RaceCars.AssemblyInfoInputs.cache
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork05\RaceCars\obj\Debug\netcoreapp3.1\RaceCars.AssemblyInfo.cs
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork05\RaceCars\obj\Debug\netcoreapp3.1\RaceCars.csproj.CoreCompileInputs.cache
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork05\RaceCars\bin\Debug\netcoreapp3.1\RaceCars.exe
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork05\RaceCars\bin\Debug\netcoreapp3.1\RaceCars.deps.json
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork05\RaceCars\bin\Debug\netcoreapp3.1\RaceCars.runtimeconfig.json
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork05\RaceCars\bin\Debug\netcoreapp3.1\RaceCars.runtimeconfig.dev.json
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork05\RaceCars\bin\Debug\netcoreapp3.1\RaceCars.dll
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork05\RaceCars\bin\Debug\netcoreapp3.1\RaceCars.pdb
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork05\RaceCars\obj\Debug\netcoreapp3.1\RaceCars.dll
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork05\RaceCars\obj\Debug\netcoreapp3.1\RaceCars.pdb
+C:\Users\Slavko\Desktop\SECD Code Academy\HomeWorks\C-Sharp-HomeWorks\HomeWork05\RaceCars\obj\Debug\netcoreapp3.1\RaceCars.genruntimeconfig.cache
