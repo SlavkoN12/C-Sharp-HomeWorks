@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Task1.Classes
+namespace CarModels
 {
     public class Car
     {
@@ -11,19 +11,14 @@ namespace Task1.Classes
         public string Model { get; set; }
         public int Doors { get; set; }
         public int TopSpeed { get; set; }
-        
+
         public Consumption Consumption { get; set; }
         public EngineType EngineType { get; set; }
-        
 
-        public Car(string brand, string model, int doors, int topSpeed, Consumption consumption, EngineType engineType)
+
+        public Car()
         {
-            Brand = brand;
-            Model = model;
-            Doors = doors;
-            TopSpeed = topSpeed;
-            Consumption = consumption;
-            EngineType = engineType;
+            
 
         }
         public string PrintInfo()
@@ -35,6 +30,6 @@ namespace Task1.Classes
 
 
 
-        
+
     }
 }
